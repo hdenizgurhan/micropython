@@ -1,0 +1,9 @@
+build-STM32F429DISC/Gyro/../../STM32CubeF4/Drivers/BSP/Components/l3gd20/l3gd20.o: \
+ ../../../mymodules/Gyro/../../STM32CubeF4/Drivers/BSP/Components/l3gd20/l3gd20.c \
+ ../../../mymodules/Gyro/../../STM32CubeF4/Drivers/BSP/Components/l3gd20/l3gd20.h \
+ ../../../mymodules/Gyro/../../STM32CubeF4/Drivers/BSP/Components/l3gd20/../Common/gyro.h \
+ /usr/lib/gcc/arm-none-eabi/9.2.1/include/stdint.h
+ ../../../mymodules/Gyro/../../STM32CubeF4/Drivers/BSP/Components/l3gd20/l3gd20.c :
+ ../../../mymodules/Gyro/../../STM32CubeF4/Drivers/BSP/Components/l3gd20/l3gd20.h :
+ ../../../mymodules/Gyro/../../STM32CubeF4/Drivers/BSP/Components/l3gd20/../Common/gyro.h :
+ /usr/lib/gcc/arm-none-eabi/9.2.1/include/stdint.h :
